@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nombre_contacto">33dp</dimen>
+    <dimen name="top">20dp</dimen>
+    <dimen name="celcontacto">16dp</dimen>
+    <dimen name="imgCel">33dp</dimen>
+    <dimen name="marginleft">10dp</dimen>
+    <dimen name="marginleft2">5dp</dimen>
+</resources>
